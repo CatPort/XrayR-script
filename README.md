@@ -3,7 +3,7 @@ A Xray backend framework that can easily support many panels.
 
 # R.I.P XrayR
 
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+Một khung công tác back-end dựa trên Xray, hỗ trợ các giao thức V2ay, Trojan, Shadowsocks, cực kỳ dễ mở rộng và hỗ trợ kết nối nhiều bảng điều khiển
 
 # Hướng dẫn chi tiết
 
